@@ -1,0 +1,38 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.answer {
+  width: 400px;
+  padding: 2px 5px;
+  background-color: #FFF8A6;
+  border-left: solid 5px grey;
+  margin-top: 10px;
+}
+
+.question {
+  width: 400px;
+  padding: 2px 5px;
+  border-left: solid 5px grey;
+}
+
+.container {
+  width: 500px;
+  height: 40px;
+  display: flex;
+}
+
+.edit_fld {
+  border-radius: 10px;
+  padding: 5px;
+  width: 400px;
+}
+
+.submit_btn {
+  width: 60px;
+  background-color: blue;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 5px;
+}
